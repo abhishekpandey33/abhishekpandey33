@@ -16,6 +16,8 @@
 
 ### Languages and Tools
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
