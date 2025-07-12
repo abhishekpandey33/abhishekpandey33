@@ -25,7 +25,7 @@
 
 ----
 
-## 🛜 Let's Connect!
+## 🛜 Let's Connect! [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-296b04250/
 
 ----
 
