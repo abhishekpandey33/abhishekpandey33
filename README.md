@@ -14,6 +14,22 @@
 
 ----
 
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+----
+
 ### ⚡ Fun fact: 
 
 --> I'm more of a backend person, but trying to love frontend.
