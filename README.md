@@ -16,7 +16,7 @@
 
 ### ⚡ Fun fact: 
 
---> I'm more of a backend person, but trying to love frontend
+--> I'm more of a backend person, but trying to love frontend.
 
 --> 🐞Debugging is as tedious as running in football⚽, but no goals🥅 without running.
 
