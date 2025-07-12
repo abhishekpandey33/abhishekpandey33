@@ -10,7 +10,7 @@
 
 
 
-📫 Reach me: [Email](mailto: abhishek.pandey998877@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-296b04250/)
+📫 Reach me: [Email](abhishek.pandey998877@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-296b04250/)
 
 ----
 
@@ -25,7 +25,7 @@
 
 ----
 
-## 🛜 Let's Connect! [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-296b04250/)
+## 🛜 Let's Connect!   [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-296b04250/)
 
 ----
 
