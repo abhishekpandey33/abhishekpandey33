@@ -6,7 +6,7 @@
 
 🌱 Actively learning **React and **next.js.
 
-🎯 I'd become One-Man Army of fullstack Development  ***Someone you'd want on your dev team.***
+🎯 I'd become One-Man Army of fullstack Development,  ***Someone you'd want on your dev team.***
 
 
 
