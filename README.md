@@ -1,6 +1,6 @@
 ##   Hi there 👋, I'm Abhishek Pandey
 
-ℹ️ A Computer Science student building full-stack apps, python apps solving real-world problems while sitting😁.
+ℹ️ A Computer Science student building full-stack apps, python apps solving real-world problems.
 
 🎯 Currently looking for entry-level opportunities in **frontend development, **backend development, or **full-stack roles.
 
