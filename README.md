@@ -2,9 +2,7 @@
 
 ℹ️ A Computer Science student building full-stack apps, python apps solving real-world problems.
 
-🎯 Currently looking for entry-level opportunities in **frontend development, **backend development, or **full-stack roles.
-
-🌱 Actively learning **React and **next.js.
+🎯 Actively looking for Full Stack Developer( MERN / React + Django ) roles.
 
 🎯 I'd become One-Man Army of fullstack Development,  ***Someone you'd want on your dev team.***
 
