@@ -1,10 +1,10 @@
 ##   Hi there 👋, I'm Abhishek Pandey
 
-ℹ️ A Computer Science student building full-stack apps, python apps solving real-world problems.
+ℹ️ A Full-stack Developer building full-stack apps solving real-world problems.
 
-🎯 Actively looking for Full Stack Developer( MERN / React + Django ) roles.
+🎯 Actively looking for Full Stack Developer(MERN) roles.
 
-🎯 I'd become One-Man Army of fullstack Development,  ***Someone you'd want on your dev team.***
+🎯 I am becoming a One-Man Army of fullstack Development - Someone you'd want on your dev team.
 
 
 
@@ -32,7 +32,7 @@
 
 ### ⚡ Fun fact: 
 
---> I'm more of a backend person, but trying to love frontend.
+--> I'm more of a backend person, but enjoying frontend as well .
 
 --> 🐞Debugging is as tedious as running in football⚽, but no goals🥅 without running.
 
